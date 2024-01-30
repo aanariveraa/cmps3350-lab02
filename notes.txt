@@ -1,0 +1,2 @@
+This is my first time working with git, I have never worked with it before.
+It seems very interesting ,but it will take some time for me to adjust to the commands.
